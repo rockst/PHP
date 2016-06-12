@@ -1,0 +1,8 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # RewriteRule (.*?)/(.*?)/(.*?)$ index.php?page=$1&action=$2&id=$3
+    # RewriteRule ([a-zA-Z_-]+?)/([a-zA-Z_-]+?)/([^/]+?)$ index.php?page=$1&action=$2&id=$3
+    RewriteRule photos/([a-zA-Z_-]+?)/([0-9]+?)/in/([a-z]+?)-([0-9]+?)$ index.php?user=$1&photoId=$2&groupType=$3&groupId=$4
+</IfModule>
+
