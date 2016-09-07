@@ -5,7 +5,7 @@
     
     include_once( APP_CLASS_PATH."nusoap/nusoap.php" );
   
-	$NAMESPACE = 'http://localhost:8888/SOAP/';
+	$NAMESPACE = 'http://others/';
 
 	$server = new soap_server();
 
