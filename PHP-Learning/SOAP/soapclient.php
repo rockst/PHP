@@ -5,7 +5,7 @@
     
     include_once( APP_CLASS_PATH."nusoap/nusoap.php" );
   
-	$soapclient = new nusoap_client('http://localhost:8888/SOAP/soapserver.php?wsdl', true);
+	$soapclient = new nusoap_client('http://others/soapserver.php?wsdl', true);
 	$error = $soapclient->getError();
 	if ($error) {
 		return false;
