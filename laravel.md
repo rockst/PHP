@@ -7,4 +7,3 @@
 * [Laravel 5 學習筆記](http://kejyun.github.io/Laravel-5-Learning-Notes-Books/index.html)
 * [mysql.sock](http://stackoverflow.com/questions/20723803/pdoexception-sqlstatehy000-2002-no-such-file-or-directory)
 * [台灣使用laravel網站](https://www.yobaby.com.tw)
-* 
