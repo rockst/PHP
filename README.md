@@ -1,4 +1,4 @@
 # PHP 相關
 
-* PHP-Learning 練習使用或書本的知識
+* PHP-Learning 練習使用
 * Laravel MVC Framework
