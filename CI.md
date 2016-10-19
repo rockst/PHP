@@ -1,6 +1,21 @@
 CI URI
 - https://codeigniter.org.tw/user_guide/libraries/uri.html
 
+CI URL Helper
+- https://codeigniter.org.tw/user_guide/helpers/url_helper.html
+
+CI Form Helper
+- https://codeigniter.org.tw/user_guide/helpers/form_helper.html
+:
+CI Form validation
+- http://codeigniter.org.cn/user_guide/libraries/form_validation.html#id3
+
+CI Email library
+- https://codeigniter.org.tw/user_guide/libraries/email.html
+
+CI creating libraries
+- https://codeigniter.org.tw/user_guide/general/creating_libraries.html
+
 CI CLI
 - https://codeigniter.org.tw/user_guide/general/cli.html
 
@@ -19,6 +34,9 @@ CI Date
 
 CI DB
 - https://codeigniter.org.tw/user_guide/database/active_record.html
+
+CI DB query builder
+- https://www.codeigniter.com/userguide3/database/query_builder.html
 
 CI DB insert id
 - http://stackoverflow.com/questions/16440366/how-to-get-last-insert-id-after-insert-query-in-codeigniter-active-record
