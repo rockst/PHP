@@ -1,3 +1,6 @@
+CI Remove index.php in URI
+- http://stackoverflow.com/questions/18858897/htaccess-routing-http-to-https-sometimes-includes-removed-codeigniter-index-php
+
 CI URI
 - https://codeigniter.org.tw/user_guide/libraries/uri.html
 
@@ -6,15 +9,21 @@ CI URL Helper
 
 CI Form Helper
 - https://codeigniter.org.tw/user_guide/helpers/form_helper.html
-:
+
 CI Form validation
 - http://codeigniter.org.cn/user_guide/libraries/form_validation.html#id3
+
+CI Error
+- https://codeigniter.org.tw/user_guide/general/errors.html
 
 CI Email library
 - https://codeigniter.org.tw/user_guide/libraries/email.html
 
 CI creating libraries
 - https://codeigniter.org.tw/user_guide/general/creating_libraries.html
+
+CI Text Helper
+- https://codeigniter.org.tw/user_guide/helpers/text_helper.html
 
 CI CLI
 - https://codeigniter.org.tw/user_guide/general/cli.html
