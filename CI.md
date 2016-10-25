@@ -25,8 +25,14 @@ CI creating libraries
 CI Text Helper
 - https://codeigniter.org.tw/user_guide/helpers/text_helper.html
 
+CI New Helper
+- http://stackoverflow.com/questions/804399/codeigniter-create-new-helper
+
 CI CLI
 - https://codeigniter.org.tw/user_guide/general/cli.html
+
+CI FILE Helper
+- https://codeigniter.org.tw/user_guide/helpers/file_helper.html
 
 CI File
 - https://codeigniter.org.tw/userguide3/libraries/file_uploading.html?highlight=upload#CI_Upload::do_upload
@@ -68,3 +74,7 @@ CI CAPTCHA
 
 CI Config
 - https://codeigniter.org.tw/user_guide/libraries/config.html
+
+CI XML
+- http://stackoverflow.com/questions/17854296/how-to-generate-xml-in-codeigniter
+- http://stackoverflow.com/questions/10361074/xml-creation-using-codeigniter
