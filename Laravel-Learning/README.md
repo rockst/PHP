@@ -1,9 +1,17 @@
 # Laravel
 
+* [5.3 官方](https://laravel.com/docs/5.3/releases)
 * [Install Laravel](http://weiyuan.logdown.com/posts/231226)
+  * [About App key](https://github.com/laravel/framework/issues/9080)
+  * [apache mod rewrite](http://stackoverflow.com/questions/12448912/apache-mod-rewrite-for-laravel)
+  * [no-input-file-specified](http://stackoverflow.com/questions/24274387/using-laravel-homestead-no-input-file-specified)
+  * [opening-required-bootstrap-vendor-autoload-php](http://stackoverflow.com/questions/28468625/laravel-5-failed-opening-required-bootstrap-vendor-autoload-php)
+  * [no-such-file-or-directory-autoload](http://stackoverflow.com/questions/18407208/why-no-such-file-or-directory-autoload-php-when-accessing-laravel-app)
+  * [whoops-looks-like-something-went-wrong](http://laravel.io/forum/04-22-2014-whoops-looks-like-something-went-wrong-with-new-installation)
 * [Laravel 入門](http://www.golaravel.com/post/laravel-5-getting-started-part-1/)
 * [Homebrew](http://jigsawye.com/2016/02/01/setup-laravel-development-environment-with-homebrew/)
   * [Uninstall homebrew](http://superuser.com/questions/203707/how-to-uninstall-homebrew-mac-os-x-package-manager)
 * [Laravel 5 學習筆記](http://kejyun.github.io/Laravel-5-Learning-Notes-Books/index.html)
 * [mysql.sock](http://stackoverflow.com/questions/20723803/pdoexception-sqlstatehy000-2002-no-such-file-or-directory)
 * [台灣使用laravel網站](https://www.yobaby.com.tw)
+* [給 Laravel 初學者的幾點建議](http://oomusou.io/laravel/laravel-for-newbie/)
